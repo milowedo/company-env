@@ -13,5 +13,7 @@ It is a `spring` web application. A platform where people can create/manage thei
 
 # Default page, listing all the users
 Admin has obviously more options to perform in the system. Standard user can only modify himself.
-  ![nobody is logged](screenshots/listUsersNobody.bmp)![admin logged](screenshots/listUsersAdmin.bmp)
+
+
+  ![nobody is logged](screenshots/usersNoLogin.bmp)![admin logged](screenshots/usersAdmin.bmp)
 

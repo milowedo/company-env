@@ -28,7 +28,10 @@ ___
 
 # Login, Register
 
-  ![](screenshots/login.bmp) ![](screenshots/register.jpg)
+Login             |  Register
+:-------------------------:|:-------------------------:
+![](screenshots/login.bmp)  |  ![](screenshots/register.jpg)
+
   
 # Updating account
 

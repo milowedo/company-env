@@ -1,20 +1,17 @@
 # Employee info space
 This is a project I created after completing a `Spring` course, in order to somehow sum up what I have learned.
 
-
-
-## Introduction: What is it?
-
+## Introduction
 It is a `spring` web application. A platform where people can create/manage their own accounts.
  
- - Depending on whether you are an admin, you can be in power to delete/update all of existing accounts.
-
- - Password athentication and encryption is powered by `Spring Security`.
-
+ - An admin functionality is present. Admin can delete and update every account.
+ - Password athentication and encryption, certain restraint to the View and access are powered by `Spring Security`.
  - Data is stored in `MySQL` database with `Hibernate's` help.
 
-
-
 # Database
+  ![Database schema](screenshots/db_schema.bmp)
 
-  ![Database schema](./screenshots/db_schema.bnp)
+# Default page, listing all the users
+Admin has obviously more options to perform in the system. Standard user can only modify himself.
+  ![nobody is logged](screenshots/listUsersNobody.bmp)![admin logged](screenshots/listUsersAdmin.bmp)
+

@@ -28,8 +28,8 @@ ___
 
 # Login, Register
 
-  ![log in](screenshots/login.bmp)![register](screenshots/register.jpg)
+  ![](screenshots/login.bmp) ![](screenshots/register.jpg)
   
 # Updating account
 
-  ![user updating his own account](screenshots/updateByUser.bmp)![admin editing somebody's account](screenshots/updateByAdmin.jpg)
+  ![](screenshots/updateByUser.bmp) ![](screenshots/updateByAdmin.jpg)

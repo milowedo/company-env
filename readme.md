@@ -12,8 +12,16 @@ It is a `spring` web application. A platform where people can create/manage thei
   ![Database schema](screenshots/db_schema.bmp)
 
 # Default page, listing all the users
-Admin has obviously more options to perform in the system. Standard user can only modify himself.
+Admin has obviously more options to perform in the system.
+Standard user can only modify himself.
+
+Searching for customers is traversing whole database trying to match the search phrase to email/name/surname or username of any user.
 
 
-  ![nobody is logged](screenshots/usersNoLogin.bmp)![admin logged](screenshots/usersAdmin.bmp)
+  ![nobody is logged](screenshots/usersNoLogin.bmp)
+___
+  ![admin logged](screenshots/usersAdmin.bmp)
 
+
+
+#

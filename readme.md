@@ -15,13 +15,21 @@ It is a `spring` web application. A platform where people can create/manage thei
 Admin has obviously more options to perform in the system.
 Standard user can only modify himself.
 
-Searching for customers is traversing whole database trying to match the search phrase to email/name/surname or username of any user.
+When searching for customers, the system is traversing whole database trying to match the search phrase to email/name/surname or username of any user.
 
 
   ![nobody is logged](screenshots/usersNoLogin.bmp)
+  
 ___
+
   ![admin logged](screenshots/usersAdmin.bmp)
 
 
 
-#
+# Login, Register
+
+  ![log in](screenshots/login.bmp)
+
+___
+
+  ![register](screenshots/register.jpg)

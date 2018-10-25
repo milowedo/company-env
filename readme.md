@@ -28,9 +28,9 @@ ___
 
 # Login, Register
 
-![](screenshots/login.bmp) ![](screenshots/register.jpg)
+![](screenshots/login.bmp) ![](screenshots/register.bmp)
 
   
 # Updating account
 
-  ![](screenshots/updateByUser.bmp) ![](screenshots/updateByAdmin.jpg)
+  ![](screenshots/updateByUser.bmp) ![](screenshots/updateByAdmin.bmp)

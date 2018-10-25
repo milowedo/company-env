@@ -30,7 +30,14 @@ ___
 
 ![](screenshots/login.bmp) ![](screenshots/register.bmp)
 
+
+
+
   
 # Updating account
+
+
+ On the left a situation where somebody is editing his own account, when on the right, Admin editing some user's data
+
 
   ![](screenshots/updateByUser.bmp) ![](screenshots/updateByAdmin.bmp)

@@ -17,4 +17,4 @@ It is a `spring` web application. A platform where people can create/manage thei
 
 # Database
 
-  ![Database schema](screenshots/db_schema.bnp)
+  ![Database schema](screenshots/db_schema.bmp)
